@@ -24,7 +24,7 @@ public class AddAndMultiplyOf2DArray {
             }
             System.out.println();
         }
-
+        
         // Multiplication of two 2D arrays
         int[][] product = new int[rows][cols];
         for (int i = 0; i < rows; i++) {
@@ -45,3 +45,4 @@ public class AddAndMultiplyOf2DArray {
         }
     }
 }
+
